@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\ADA\\count sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5FB6E-01AD-4CEA-A8DA-7E0E1F377D2A}|count sort.vcxproj|C:\\Users\\Lenovo\\Documents\\ADA\\count sort\\count sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75E5FB6E-01AD-4CEA-A8DA-7E0E1F377D2A}|count sort.vcxproj|solutionrelative:count sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "count sort.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ADA\\count sort\\count sort.cpp",
+              "RelativeDocumentMoniker": "count sort.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ADA\\count sort\\count sort.cpp*",
+              "RelativeToolTip": "count sort.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-31T16:03:10.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
