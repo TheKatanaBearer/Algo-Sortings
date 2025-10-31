@@ -24,7 +24,7 @@ void countingSort(vector<int>& arr) {
 }
 
 int main() {
-    vector<int> arr = {10,2,3,2,7,3,2,10,8,2,4,5,4,11,7,5,1 };
+    vector<int> arr = {4, 2, 2, 8, 3, 3, 1};
 
     cout << "Original array: ";
     for (int num : arr) cout << num << " ";
